@@ -1,0 +1,30 @@
+{
+  "author": "Nicholas Jamieson <nicholas@cartant.com>",
+  "bugs": {
+    "url": "https://github.com/cartant/eslint-config-rxjs/issues"
+  },
+  "dependencies": {},
+  "description": "ESLint configuration",
+  "devDependencies": {},
+  "homepage": "https://github.com/cartant/eslint-config-rxjs",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "@cartant/eslint-config-rxjs",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-plugin-rxjs": "^1.0.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cartant/eslint-config-rxjs.git"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
