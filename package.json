@@ -14,7 +14,7 @@
   "optionalDependencies": {},
   "peerDependencies": {
     "eslint": "^7.0.0",
-    "eslint-plugin-rxjs": "^1.0.0"
+    "eslint-plugin-rxjs": "^0.0.2-beta.24"
   },
   "private": false,
   "publishConfig": {
