@@ -14,7 +14,7 @@ module.exports = {
     "rxjs/no-index": ["error"],
     "rxjs/no-internal": ["error"],
     "rxjs/no-nested-subscribe": ["error"],
-    "rxjs/no-sharereplay": ["error", { "allowConfig": true }],
+    "rxjs/no-sharereplay": ["error", { allowConfig: true }],
     "rxjs/no-subclass": ["error"],
     "rxjs/no-subject-unsubscribe": ["error"],
     "rxjs/no-subject-value": ["error"],
@@ -24,6 +24,6 @@ module.exports = {
     "rxjs/no-unsafe-subject-next": ["error"],
     "rxjs/no-unsafe-switchmap": ["error"],
     "rxjs/no-unsafe-takeuntil": ["error"],
-    "rxjs/throw-error": ["error"]
-  }
+    "rxjs/throw-error": ["error"],
+  },
 };
