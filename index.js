@@ -1,5 +1,5 @@
 module.exports = {
-  plugin: ["rxjs"],
+  plugins: ["rxjs"],
   rules: {
     "rxjs/no-async-subscribe": ["error"],
     "rxjs/no-compat": ["error"],
