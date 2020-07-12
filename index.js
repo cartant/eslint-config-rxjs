@@ -11,6 +11,7 @@ module.exports = {
     "rxjs/no-ignored-observable": ["error"],
     "rxjs/no-ignored-subscription": ["error"],
     "rxjs/no-ignored-takewhile-value": ["error"],
+    "rxjs/no-implicit-any-catch": ["error"],
     "rxjs/no-index": ["error"],
     "rxjs/no-internal": ["error"],
     "rxjs/no-nested-subscribe": ["error"],
