@@ -3,7 +3,9 @@
   "bugs": {
     "url": "https://github.com/cartant/eslint-config-rxjs/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "eslint-plugin-rxjs": "^0.0.3-beta.30"
+  },
   "description": "ESLint configuration",
   "devDependencies": {},
   "homepage": "https://github.com/cartant/eslint-config-rxjs",
@@ -13,8 +15,7 @@
   "name": "@cartant/eslint-config-rxjs",
   "optionalDependencies": {},
   "peerDependencies": {
-    "eslint": "^7.0.0",
-    "eslint-plugin-rxjs": "^0.0.2-beta.24"
+    "eslint": "^7.0.0"
   },
   "private": false,
   "publishConfig": {
