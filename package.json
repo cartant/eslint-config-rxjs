@@ -4,7 +4,7 @@
     "url": "https://github.com/cartant/eslint-config-rxjs/issues"
   },
   "dependencies": {
-    "eslint-plugin-rxjs": "^0.0.3-beta.30"
+    "eslint-plugin-rxjs": "^1.0.0"
   },
   "description": "ESLint configuration",
   "devDependencies": {},

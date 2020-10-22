@@ -369,10 +369,10 @@ eslint-etc@^4.0.0:
     tsutils "^3.17.1"
     tsutils-etc "^1.2.2"
 
-eslint-plugin-rxjs@^0.0.3-beta.30:
-  version "0.0.3-beta.30"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-rxjs/-/eslint-plugin-rxjs-0.0.3-beta.30.tgz#caaed11af114c77f83890948112c8b19c3518e9d"
-  integrity sha512-9d6y6lroFtFsTVhsALCmjQ+J+VmnNjk1CWGArXz2G4YGVYa9XphmxX3ymZOjdzJoNMrHKHafbvIoK2zP3zZomA==
+eslint-plugin-rxjs@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-rxjs/-/eslint-plugin-rxjs-1.0.0.tgz#d02eb4918b6e6f47024a41f8ef5920fffa7deaa8"
+  integrity sha512-hNfZPcuTdx2S4fBCmhCKzNi9LKzovceoNnRyldO/OPfK/sOM3jf3PgfkcBObMhIZKgBtcmv7cQV9l7NLqdA1Uw==
   dependencies:
     "@typescript-eslint/experimental-utils" "^4.0.0"
     common-tags "^1.8.0"
