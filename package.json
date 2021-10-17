@@ -4,10 +4,14 @@
     "url": "https://github.com/cartant/eslint-config-rxjs/issues"
   },
   "dependencies": {
-    "eslint-plugin-rxjs": "^3.0.0"
+    "eslint-plugin-rxjs": "^4.0.0"
   },
   "description": "ESLint configuration",
-  "devDependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.0",
+    "typescript": "^4.0.0"
+  },
   "homepage": "https://github.com/cartant/eslint-config-rxjs",
   "keywords": [],
   "license": "MIT",
@@ -15,7 +19,7 @@
   "name": "@cartant/eslint-config-rxjs",
   "optionalDependencies": {},
   "peerDependencies": {
-    "eslint": "^7.0.0"
+    "eslint": "^8.0.0"
   },
   "private": false,
   "publishConfig": {
